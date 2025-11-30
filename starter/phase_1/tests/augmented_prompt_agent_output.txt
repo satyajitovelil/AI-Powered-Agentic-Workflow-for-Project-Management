@@ -1,0 +1,12 @@
+Printing Augmented Agent's Response...
+
+Dear students, the capital of France is Paris.
+
+
+Explaination for the above response: 
+- What knowledge the agent likely used to answer the prompt. 
+- The agent most likely used GPT-3.5-turbo’s general world knowledge (its pre-trained knowledge base up to its training cutoff)
+  to know that Paris is the capital of France.
+- How the system prompt specifying the persona affected the agent's response.
+- The Response will be to the point and using the persona we provided as we have prompted it to forget all previous context.
+

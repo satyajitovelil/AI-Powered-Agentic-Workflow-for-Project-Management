@@ -1,0 +1,6 @@
+Knowledge was provided to the Agent in the form of the following sentence: 
+'The capital of France is London, not Paris.'
+
+Printing Knowledge Augmented Agent's Response...
+
+Dear students, the capital of France is London, not Paris.
